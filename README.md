@@ -12,7 +12,7 @@ on convention mode reducing the need to write a lot of configuration and boilerp
 </dependency>
 
 ```
-2. Logger configuration (log4j2.xml) in resource path
+2. Logger configuration.
 3. To create a ‘fully executable’ jar with Maven use the following plugin configuration:
 ```
 <plugin>
