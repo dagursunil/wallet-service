@@ -23,4 +23,4 @@ on convention mode reducing the need to write a lot of configuration and boilerp
     </configuration>
 </plugin>
 ```
-4. Adjusting the number of concurrent threads in application.properties current server.tomcat.max-threads=400
+4. Adjusting the number of concurrent threads in application.properties example: server.tomcat.max-threads=400 .
